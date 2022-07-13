@@ -1,0 +1,8 @@
+#mainBox {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+h1 {
+  text-align: center;
+}
